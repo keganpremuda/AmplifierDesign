@@ -74,6 +74,14 @@ An AC simulation was run to measure the differential gain, 3dB point, unity gain
 A transient analysis was run to obtain an input and output voltage transient plot and measure the Vpp, and to obtain a transient response plot to show input and output port voltages, as well as the DC current across time.</p>
 <br />
 <br />
+<br />
+<p align="center">
+<b>Nonideal Differential Amplifier Circuit and Calculations:</b><br><br/>
+<img src="https://i.imgur.com/aQ52zBy.png" height="80%" width="80%" alt="Final Results"/></p>
+<p align="left">
+The final results from each amplifier were accumulated on a table to compare required specifications with design specifications to show that all requirements have been met.</p>
+<br />
+<br />
 <!--
  ```diff
 - text in red
